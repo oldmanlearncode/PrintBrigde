@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+TestResults/
+coverage/
+*.db
+*.sqlite
+*.sqlite3
+spool/
+*.pdf
+.env
